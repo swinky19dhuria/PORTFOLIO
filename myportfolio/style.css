@@ -322,7 +322,8 @@ nav .fa-solid{
         font-size: 25px;
     }
     nav ul{
-        background: #ff004f;
+        /* background: #ff004f; */
+        background: #b54769;
         position: fixed;
         top: 0;
         right: -200px;
